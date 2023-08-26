@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey there!
+## I'm DarkModeDevotee, 
+I recently made the switch from Windows to Linux, and I'm absolutely loving Linux 
 
-<!--
-**DarkModeDevotee/DarkModeDevotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Linux GIF](https://yoursmiles.org/tsmile/compgame/t12702.gif)
 
-Here are some ideas to get you started:
+Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Re-Learning Python.
+- 🔒 Privacy Enthusiast.
+- 🛑 Currently Degoogling.
+- 🌌 Dreaming Of Norway.
+- 🌲 Nature Lover.
+- 📚 Always Learning.
+- 🔓 Getting into ethical hacking.
+
+
+My setup:
+- Distro: 🌿 Mint
+- Desktop: 🧙‍♂️ Gnome
+- Theme of Choice: [🐱 ☕️ Catppuccino Mocha](https://github.com/catppuccin/catppuccin)
+- Shell: 🐚 Zsh+[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) (Agnoster theme)
+- Terminal: 🖥️ Gnome Terminal
+- Text Editor: ✍️ Neovim
+- IDE: 🧠 Jetbrains
+- Browser: 🦊 Hardened Librewolf
+
+"The only way to do great work is to love what you do." - Steve Jobs
