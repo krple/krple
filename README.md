@@ -23,5 +23,7 @@ My setup:
 - IDE: 🧠 Jetbrains
 - Browser: 🦊 Hardened Librewolf
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eqq5xxgji4ywbcei7345374b6m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31eqq5xxgji4ywbcei7345374b6m&redirect=true)
+
 "The only way to do great work is to love what you do." - Steve Jobs 
 ## ↓↓↓
