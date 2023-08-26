@@ -1,4 +1,4 @@
-# Hey there!
+# Hello World!
 ## I'm DarkModeDevotee, 
 I recently made the switch from Windows to Linux, and I'm absolutely loving Linux 
 
