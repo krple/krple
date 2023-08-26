@@ -29,4 +29,7 @@ My setup:
 
 [![My Skills](https://skillicons.dev/icons?i=md,neovim,linux,unreal,py,idea)](https://skillicons.dev)
 
+SOON:
+
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 ## ↓↓↓
