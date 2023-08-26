@@ -2,8 +2,6 @@
 ## I'm DarkModeDevotee, 
 I recently made the switch from Windows to Linux, and I'm absolutely loving Linux 
 
-![Linux GIF](https://yoursmiles.org/tsmile/compgame/t12702.gif)
-
 Here's a bit about me:
 
 - 🌱 Re-Learning Python.
