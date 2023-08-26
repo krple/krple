@@ -31,6 +31,6 @@ My setup:
 
 SOON:
 
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,lua)](https://skillicons.dev)
 ![](https://hit.yhype.me/github/profile?user_id=84683430)
 ## ↓↓↓
