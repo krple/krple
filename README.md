@@ -27,7 +27,7 @@ My setup:
 
 "The only way to do great work is to love what you do." - Steve Jobs 
 
-[![My Skills](https://skillicons.dev/icons?i=md,neovim,linux,unreal,py,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,neovim,linux,unreal,windows,py,idea)](https://skillicons.dev)
 
 SOON:
 
