@@ -12,7 +12,7 @@ Here's a bit about me:
 
 # My setup:
 - ## Operating systems: <img src="https://img.shields.io/badge/-linux_mint-80C23A?logo=linuxmint&logoColor=white&style=for-the-badge" alt=Linux-Mint />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Windows_11-0078D4?logo=windows11&logoColor=white&style=for-the-badge" alt=Windows-11 />&nbsp;&nbsp;
-- ## Desktop Environments: <img src="https://img.shields.io/badge/gnome-4A86CF?logo=gnome&logoColor=white&style=for-the-badge" alt=Gnome />&nbsp;&nbsp; <img src="https://img.shields.io/badge/KDE-1D99F3?logo=KDE&logoColor=white&style=for-the-badge" alt=KDE />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/CINNAMON.svg" alt=Cinnamon />&nbsp;&nbsp;
+- ## Desktop Environments: <img src="https://img.shields.io/badge/gnome-4A86CF?logo=gnome&logoColor=white&style=for-the-badge" alt=Gnome />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Plasma-1D99F3?logo=KDE&logoColor=white&style=for-the-badge" alt=KDE />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/CINNAMON.svg" alt=Cinnamon />&nbsp;&nbsp;
 - ## Terminal: <img src="https://img.shields.io/badge/gnome_terminal-241F31?logo=gnometerminal&logoColor=white&style=for-the-badge" alt=Gnome-Terminal />&nbsp;&nbsp;
 - ## IDE:<img src="https://img.shields.io/badge/jetbains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" alt=JetBrains />&nbsp;&nbsp;
 - ## Alternate IDE: <img src="https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=white&style=for-the-badge" alt=NeoVim />&nbsp;&nbsp;
@@ -74,7 +74,7 @@ Here's a bit about me:
 
 [![My Skills](https://skillicons.dev/icons?i=md,neovim,linux,unreal,py)](https://skillicons.dev)
 
-<img src="" alt=whitespace />&nbsp;&nbsp;SOON:
+<img src="" alt= />&nbsp;&nbsp;SOON:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,lua)](https://skillicons.dev)
 ![](https://hit.yhype.me/github/profile?user_id=84683430)
