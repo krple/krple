@@ -25,7 +25,7 @@ Here's a bit about me:
 - ## GPU: <img src="https://img.shields.io/badge/rtx_3070ti-76B900?logo=NVIDIA&logoColor=white&style=for-the-badge" alt=nVidia />&nbsp;&nbsp; (Hopefully Radeon soon. <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/nvidia-linux.gif" style="width:25px;"/> )
 - ## Keyboard: <img src="https://img.shields.io/badge/Apex_Pro-FF5200?logo=steelseries&logoColor=white&style=for-the-badge" alt=SteelSeries />&nbsp;&nbsp;
 - ## Monitor: <img src="https://img.shields.io/badge/MX259-000000?logo=asus&logoColor=white&style=for-the-badge" alt=Asus-MX259 />&nbsp;&nbsp;
-- ## Phone: <img src="https://img.shields.io/badge/Pixel_7-3ACB7B?logo=android&logoColor=white&style=for-the-badge" alt=Android />&nbsp;&nbsp;
+- ## Phone: <img src="https://img.shields.io/badge/Pixel_7-3ACB7B?logo=android&logoColor=white&style=for-the-badge" alt=Android />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/GRAPHENEOS.svg" alt=GrapheneOS />&nbsp;&nbsp;
 
 # Stuff I Use:
 <img src="https://img.shields.io/badge/bitwarden-175DDC?logo=bitwarden&logoColor=white&style=for-the-badge" alt=Bitwarden />&nbsp;&nbsp;
