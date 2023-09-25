@@ -11,7 +11,7 @@ Here's a bit about me:
 - 🔓 I'm also exploring ethical hacking, quite fun so far.
 
 # My setup:
-- ## Operating systems: <img src="https://img.shields.io/badge/-linux_mint-80C23A?logo=linuxmint&logoColor=white&style=for-the-badge" alt=Linux-Mint />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Windows_11-0078D4?logo=windows11&logoColor=white&style=for-the-badge" alt=Windows-11 />&nbsp;&nbsp;
+- ## Operating systems: <img src="https://img.shields.io/badge/-linux_mint-80C23A?logo=linuxmint&logoColor=white&style=for-the-badge" alt=Linux-Mint />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Windows_11-0078D4?logo=windows11&logoColor=white&style=for-the-badge" alt=Windows-11 />&nbsp;&nbsp; <img src="https://img.shields.io/badge/-arch_linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" alt=Arch-Linux />&nbsp;&nbsp;
 - ## Desktop Environments: <img src="https://img.shields.io/badge/gnome-4A86CF?logo=gnome&logoColor=white&style=for-the-badge" alt=Gnome />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Plasma-1D99F3?logo=KDE&logoColor=white&style=for-the-badge" alt=KDE />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/CINNAMON.svg" alt=Cinnamon />&nbsp;&nbsp;
 - ## Terminal: <img src="https://img.shields.io/badge/gnome_terminal-241F31?logo=gnometerminal&logoColor=white&style=for-the-badge" alt=Gnome-Terminal />&nbsp;&nbsp;
 - ## IDE:<img src="https://img.shields.io/badge/jetbains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" alt=JetBrains />&nbsp;&nbsp;
