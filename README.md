@@ -24,7 +24,7 @@ Here's a bit about me:
 - ## CPU: <img src="https://img.shields.io/badge/-Ryzen_9_5900x-ED1C24?logo=amd&logoColor=white&style=for-the-badge" alt=AMD-Ryzen-9-5900x />&nbsp;&nbsp;
 - ## GPU: <img src="https://img.shields.io/badge/rtx_3070ti-76B900?logo=NVIDIA&logoColor=white&style=for-the-badge" alt=nVidia />&nbsp;&nbsp; (Hopefully Radeon soon. <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/nvidia-linux.gif" style="width:25px;"/> )
 - ## Keyboard: <img src="https://img.shields.io/badge/Apex_Pro-FF5200?logo=steelseries&logoColor=white&style=for-the-badge" alt=SteelSeries />&nbsp;&nbsp;
-- ## Monitor: <img src=https://img.shields.io/badge/Q3223Q-007DB8?logo=dell&logoColor=white&style=for-the-badge" alt=Dell Q3223Q />&nbsp;&nbsp;
+- ## Monitor: <img src="https://img.shields.io/badge/Q3223Q-007DB8?logo=dell&logoColor=white&style=for-the-badge" alt=dell-q3223q />&nbsp;&nbsp;
 - ## Phone: <img src="https://img.shields.io/badge/Pixel_7-3ACB7B?logo=android&logoColor=white&style=for-the-badge" alt=Android />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/GRAPHENEOS.svg" alt=GrapheneOS />&nbsp;&nbsp;
 
 # Stuff I Use:
