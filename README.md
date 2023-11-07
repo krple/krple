@@ -27,20 +27,12 @@ Here's a bit about me:
 - ## Monitor: <img src="https://img.shields.io/badge/Q3223Q-007DB8?logo=dell&logoColor=white&style=for-the-badge" alt=dell-q3223q />&nbsp;&nbsp;
 - ## Phone: <img src="https://img.shields.io/badge/Pixel_7-3ACB7B?logo=android&logoColor=white&style=for-the-badge" alt=Android />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/GRAPHENEOS.svg" alt=GrapheneOS />&nbsp;&nbsp;
 
-# I also know how to use:
-<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" alt=Git />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" alt=Kali-Linux />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt=Markdown />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt=Python />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt=Ubuntu />&nbsp;&nbsp;
-</p>
-
-"The only way to do great work is to love what you do." - Steve Jobs 
-
 [![My Skills](https://skillicons.dev/icons?i=md,neovim,linux,unreal,py)](https://skillicons.dev)
 
 <img src="" alt= />&nbsp;&nbsp;SOON:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,lua)](https://skillicons.dev)
 ![](https://hit.yhype.me/github/profile?user_id=84683430)
+
+"The only way to do great work is to love what you do." - Steve Jobs 
 ## ↓↓↓
