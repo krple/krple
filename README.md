@@ -27,39 +27,6 @@ Here's a bit about me:
 - ## Monitor: <img src="https://img.shields.io/badge/Q3223Q-007DB8?logo=dell&logoColor=white&style=for-the-badge" alt=dell-q3223q />&nbsp;&nbsp;
 - ## Phone: <img src="https://img.shields.io/badge/Pixel_7-3ACB7B?logo=android&logoColor=white&style=for-the-badge" alt=Android />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/GRAPHENEOS.svg" alt=GrapheneOS />&nbsp;&nbsp;
 
-# Stuff I Use:
-<img src="https://img.shields.io/badge/bitwarden-175DDC?logo=bitwarden&logoColor=white&style=for-the-badge" alt=Bitwarden />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Virtual_Box-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" alt=Virtual-Box />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/signal-3A76F0?logo=signal&logoColor=white&style=for-the-badge" alt=Signal />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/steam-171D25?logo=steam&logoColor=white&style=for-the-badge" alt=Steam />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/DarkModeDevotee/DarkModeDevotee/main/BEEPER.svg" alt=Beeper />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white&style=for-the-badge" alt=Gimp />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/affinity_photo-7E4DD2?logo=affinityphoto&logoColor=white&style=for-the-badge" alt=Affinity-Photo />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/aseprite-7D929E?logo=aseprite&logoColor=white&style=for-the-badge" alt=Aseprite />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Fdroid-1976D2?logo=fdroid&logoColor=white&style=for-the-badge" alt=F-Droid />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?logo=Obsidian&logoColor=white&style=for-the-badge" alt=Obsidian />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/open_vpn-EA7E20?logo=openvpn&logoColor=white&style=for-the-badge" alt=Open-VPN />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/krita-3BABFF?logo=krita&logoColor=white&style=for-the-badge" alt=Krita />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" alt=Spotify />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/rainmeter-19519B?logo=rainmeter&logoColor=white&style=for-the-badge" alt=RainMeter />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/revanced-9ED5FF?logo=revanced&logoColor=black&style=for-the-badge" alt=ReVanced />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" alt=Unreal-Engine />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/blender-E87D0D.svg?logo=blender&style=for-the-badge&logoColor=white" alt=Unreal-Engine />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/open_street_map-7EBC6F?logo=openstreetmap&logoColor=white&style=for-the-badge" alt=Open-Street-Map />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hacker_News-F0652F?logo=ycombinator&logoColor=white&style=for-the-badge" alt=Hacker-News />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ublock_origin-800000?logo=ublockorigin&logoColor=white&style=for-the-badge" alt=uBlock-Origin />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/virustotal-394EFF?logo=virustotal&logoColor=white&style=for-the-badge" alt=VirusTotal />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Brave_search-FB542B?logo=brave&logoColor=white&style=for-the-badge" alt=Brave-Search />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Dark_Reader-141E24?logo=darkreader&logoColor=white&style=for-the-badge" alt=Dark-Reader />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/tampermonkey-00485B?logo=tampermonkey&logoColor=white&style=for-the-badge" alt=Tampermonkey />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/tryhackme-212C42?logo=tryhackme&logoColor=white&style=for-the-badge" alt=TryHackMe />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/tutanota-840010?logo=tutanota&logoColor=white&style=for-the-badge" alt=Tutanota />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/plex-F5B700?logo=plex&logoColor=black&style=for-the-badge" alt=Plex />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/proton_mail-6D4AFF?logo=protonmail&logoColor=white&style=for-the-badge" alt=Proton-Mail />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/protonDB-F50057?logo=protonDB&logoColor=white&style=for-the-badge" alt=ProtonDB />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ghostery-00AEF0.svg?logo=ghostery&style=for-the-badge&logoColor=white" alt=Ghostery />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hack_the_Box-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge" alt=Hack-The-Box />&nbsp;
-
 # I also know how to use:
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" alt=Git />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" alt=Kali-Linux />&nbsp;&nbsp;
