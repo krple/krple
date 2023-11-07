@@ -1,5 +1,5 @@
 # Hello World!
-## I'm DarkModeDevotee, 
+## I'm krple, (said like purple, but with a k)
 I recently dualbooted Windows and Linux, and I'm absolutely loving Linux. <img src="https://cdn3.emoji.gg/emojis/4626-linux.png" alt=Linux-Logo style="width:25px;"/>
 
 Here's a bit about me:
