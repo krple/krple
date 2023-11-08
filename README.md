@@ -1,8 +1,6 @@
 I'm **krple**, (said like purple, but with a k)
 
 Python, MD, Bash, HTML, CSS, Unreal Script<br>
-Lifelong Vegetarian<br>
-Walkable City Enthusiast<br>
 
 Something to check out (updated daily): https://windhawk.net/
 
