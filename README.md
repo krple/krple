@@ -1,5 +1,6 @@
-I'm **krple**, (said like purple, but with a k)
-
+|=========================|<br>
+| I'm **krple**, said like purple, but with a k |<br>
+|=========================|<br>
 Python, MD, Bash, HTML, CSS, Unreal Script<br>
 
 Something to check out (updated daily): https://windhawk.net/
