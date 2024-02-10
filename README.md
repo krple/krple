@@ -3,7 +3,7 @@
 |=========================|<br>
 Python, MD, Bash, HTML, CSS, Unreal Script<br>
 
-Something to check out (updated daily): https://windhawk.net/
+Something to check out (updated daily...ish): https://windhawk.net/
 
 ![Krple's GitHub stats](https://github-readme-stats.vercel.app/api?username=krple&show=prs_merged,prs_merged_percentage&show_icons=true&hide=issues&bg_color=00000000&border_color=00000000&icon_color=1f6feb&title_color=1f6feb&text_color=7d8590)
 
